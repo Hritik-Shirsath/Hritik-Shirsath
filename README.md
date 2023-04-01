@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/Hritik Shirsath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Hritik Shirsath" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hritik-shirsath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hritik-shirsath" height="30" width="40" /></a>
 <a href="https://instagram.com/hritiks_kingdom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hritiks_kingdom" height="30" width="40" /></a>
 <a href="https://medium.com/hritik shirsath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="hritik shirsath" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/hritiks kingdom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hritiks kingdom" height="30" width="40" /></a>
